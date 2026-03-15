@@ -1,0 +1,7 @@
+Origin: Forman
+Label: Forman Repo
+Suite: stable
+Codename: totalynotadev
+Architectures: iphoneos-arm
+Components: main
+Description: Some Cydia Tweaks. They aren't mine, this is an archive.
