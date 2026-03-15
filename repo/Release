@@ -1,7 +1,7 @@
-Origin: Forman
-Label: Forman Repo
+Origin: Forman's Repo
+Label: Forman's Repo
 Suite: stable
 Codename: totalynotadev
 Architectures: iphoneos-arm
 Components: main
-Description: Some Cydia Tweaks. They aren't mine, this is an archive.
+Description: Welcome to my repo. Here I post some tweaks. Some are mine, some aren't. 
