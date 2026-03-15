@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: hyper
 Filename: debs/Origins.deb
-Size: 29564060
-MD5sum: 381e3c28005751c68c578e31758c6edb
-SHA1: 05c4fd31d8ab6530fba56c9d7ddfb4eef7bb5248
-SHA256: 841bf98a346d0d932f90a318b05f875d44b9cfae05fb32aead551441d24138a0
+Size: 30780086
+MD5sum: 85e17f7db6ecdd75354361be74ad0457
+SHA1: 0bbd0d8f71751d5b6465f0d2874539dce8b9b89d
+SHA256: 744dd78e87c99d8681f05b163f0f834c8ad53b2358088ed36af0f860a6d780ab
 Section: Games
 Description: A lightweight tweak that installs the ClashOrigins server client, enabling you to connect and play with the ClashOrigins server.
 Name: Clash Origins Client
